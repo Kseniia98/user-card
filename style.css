@@ -1,60 +1,53 @@
-*{
+* {
   box-sizing: border-box;
 }
 
-body{
+body {
   background-color: rgb(44, 38, 38);
 }
 
-.user-1{
+.user-1 {
   height: 500px;
   max-height: 600px;
   width: 300px;
   max-width: 350px;
   margin: 40px auto;
-
   border-radius: 50px;
   border: 2px solid;
-
   background-color: rgb(255, 223, 252);
-
   overflow: hidden;
 }
 
-
-.background{
+.background {
   height: 25vh;
   background-image: url(./image/background.jpg);
   background-position: center;
   background-size: cover;
 }
 
-.avatar-section{
+.avatar-section {
   margin-top: -30%;
 }
 
-.user-avatar{
+.user-avatar {
   display: block;
   width: 200px;
   max-width: 300px;
   height: 200px;
   max-height: 300px;
-
   margin: 0 auto;
-
   border: 10px solid rosybrown;
   border-radius: 50%;
-
   object-position: center;
   object-fit: cover;
 }
 
-.user-info{
+.user-info {
   text-align: center;
   padding: 10px;
 }
 
-h1{
+h1 {
   margin: 0;
   text-transform: uppercase;
 }
