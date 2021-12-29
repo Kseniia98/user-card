@@ -19,7 +19,7 @@ body {
 }
 
 .background {
-  height: 25vh;
+  height: 35%;
   background-image: url(./image/background.jpg);
   background-position: center;
   background-size: cover;
